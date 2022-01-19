@@ -1,0 +1,1 @@
+Api approach to scrape the tables
